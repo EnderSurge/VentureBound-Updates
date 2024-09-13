@@ -19,6 +19,15 @@
             "generic": "https://github.com/EnderSurge/VentureBound/archive/refs/tags/v1.1.0.zip"
         }
     }
+  },
+    {
+    "id": "1.1.1",
+    "releasedAt": 1726229327670,
+    "promotions": {
+        "downloads": {
+            "generic": "https://github.com/EnderSurge/VentureBound/releases/latest"
+        }
+    }
   }
   ]
 }
