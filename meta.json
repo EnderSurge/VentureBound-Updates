@@ -5,6 +5,7 @@
     {
       "id": "1.0.0",
       "releasedAt": 1726226207858,
+      "updateType": "minor",
       "promotions": {
           "downloads": {
               "generic": "https://github.com/EnderSurge/VentureBound/archive/refs/tags/v1.0.0.zip"
@@ -14,6 +15,7 @@
     {
     "id": "1.1.0",
     "releasedAt": 1726227280390,
+    "updateType": "minor",
     "promotions": {
         "downloads": {
             "generic": "https://github.com/EnderSurge/VentureBound/archive/refs/tags/v1.1.0.zip"
@@ -23,6 +25,7 @@
     {
     "id": "1.1.1",
     "releasedAt": 1726229327670,
+    "updateType": "minor",
     "promotions": {
         "downloads": {
             "generic": "https://github.com/EnderSurge/VentureBound/releases/latest"
@@ -32,6 +35,7 @@
   {
     "id": "1.1.2",
     "releasedAt": 1726246996419,
+    "updateType": "minor",
     "promotions": {
         "downloads": {
             "generic": "https://github.com/EnderSurge/VentureBound/releases/latest"
@@ -41,6 +45,7 @@
   {
     "id": "1.2.0",
     "releasedAt": 1727113920708,
+    "updateType": "major",
     "promotions": {
         "downloads": {
             "generic": "https://github.com/EnderSurge/VentureBound/releases/latest"

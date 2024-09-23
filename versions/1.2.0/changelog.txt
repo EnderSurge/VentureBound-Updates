@@ -1,6 +1,54 @@
-Added:
+## VentureBound 1.2.0
 
-Removed:
-
-Fixed:
- - Something I can't remember
+### Added:
+- Clickable advancements[Forge/Fabric]
+- ItemSwapper
+- SeasonHUD (Fabric)
+- Sodium
+- Sodium Core Shader Support
+### Removed:
+- Trinkets (Fabric)
+### Updated:
+- Accessories
+- Better Combat [Fabric & Forge]
+- Chat Heads
+- Chat Patches
+- ChoiceTheorem's Overhauled Village
+- Cloth Config API (Fabric/Forge/NeoForge)
+- Comforts (Fabric/Forge/Quilt)
+- Connectivity[Forge/Fabric]
+- Deeper and Darker
+- Dungeons and Taverns
+- Enchanted Vertical Slabs
+- Enhanced Attack Indicator
+- Enhanced Block Entities
+- Explorify – Dungeons & Structures
+- Fabric Language Kotlin
+- Farmer's Delight Refabricated
+- Fast IP Ping
+- Fast Paintings
+- Fzzy Config
+- Geophilic – Vanilla Biome Overhauls
+- Iceberg [Fabric]
+- Iris Shaders
+- Just Enough Items (JEI)
+- Let Me Despawn
+- Lithostitched
+- Moonlight Lib
+- More Delight (Fabric)
+- Particle Core
+- Philip's Ruins
+- Reese's Sodium Options
+- Resourcify
+- Sawmill
+- Sodium Extra
+- Storage Delight (Fabric)
+- Terralith
+- Things [Fabric]
+- Traveler's Backpack [Fabric]
+- Trinkets Compat Layer for Accessories
+- You're in Grave Danger
+- [EMF] Entity Model Features [Fabric & Forge]
+- [ETF] Entity Texture Features - [Fabric & Forge]
+- oωo (owo-lib)
+- Fabric (mod loader)
